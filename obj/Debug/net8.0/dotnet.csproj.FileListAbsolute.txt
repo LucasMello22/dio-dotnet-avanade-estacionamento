@@ -1,0 +1,14 @@
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\dotnet\bin\Debug\net8.0\dotnet.exe
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\dotnet\bin\Debug\net8.0\dotnet.deps.json
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\dotnet\bin\Debug\net8.0\dotnet.runtimeconfig.json
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\dotnet\bin\Debug\net8.0\dotnet.dll
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\dotnet\bin\Debug\net8.0\dotnet.pdb
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\dotnet\obj\Debug\net8.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\dotnet\obj\Debug\net8.0\dotnet.AssemblyInfoInputs.cache
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\dotnet\obj\Debug\net8.0\dotnet.AssemblyInfo.cs
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\dotnet\obj\Debug\net8.0\dotnet.csproj.CoreCompileInputs.cache
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\dotnet\obj\Debug\net8.0\dotnet.dll
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\dotnet\obj\Debug\net8.0\refint\dotnet.dll
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\dotnet\obj\Debug\net8.0\dotnet.pdb
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\dotnet\obj\Debug\net8.0\dotnet.genruntimeconfig.cache
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\dotnet\obj\Debug\net8.0\ref\dotnet.dll
